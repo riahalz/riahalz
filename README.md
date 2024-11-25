@@ -2,7 +2,7 @@ Hi, I’m @riahalz, a student
 
 ⚡ <b>Languages</b>: Python, Java, JavaScript, HTML
 
-⚡ <b>Interests</b>: AI, Deep Learning, ML
+⚡ <b>Concentrations</b>: AI, Deep Learning, ML
 
 <!---
 riahalz/riahalz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
