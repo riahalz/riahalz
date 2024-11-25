@@ -1,4 +1,4 @@
-🧑🏽‍🎤 Hi, I’m @riahalz
+Hi, I’m @riahalz
 
 ⚡ Languages: Python, Java, JavaScript, HTML
 
