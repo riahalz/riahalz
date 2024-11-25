@@ -1,10 +1,8 @@
-Hi, I’m @riahalz
+Hi, I’m @riahalz, a student
 
 ⚡ <b>Languages</b>: Python, Java, JavaScript, HTML
 
 ⚡ <b>Interests</b>: AI, Deep Learning, ML
-
-⚡ Currently studying CS
 
 <!---
 riahalz/riahalz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
