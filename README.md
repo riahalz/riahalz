@@ -4,7 +4,7 @@ Hi, I’m @riahalz
 
 ⚡ <b>Interests</b>: AI, Deep Learning, ML
 
-⚡ I’m currently studying CS
+⚡ Currently studying CS
 
 <!---
 riahalz/riahalz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
