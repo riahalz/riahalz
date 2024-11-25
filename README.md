@@ -1,8 +1,8 @@
 Hi, I’m @riahalz
 
-⚡ Languages: Python, Java, JavaScript, HTML
+⚡ <b>Languages</b>: Python, Java, JavaScript, HTML
 
-⚡ Interests: AI, Deep Learning, ML
+⚡ <b>Interests</b>: AI, Deep Learning, ML
 
 ⚡ I’m currently studying CS
 
