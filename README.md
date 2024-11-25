@@ -1,4 +1,4 @@
-Hi, I’m @riahalz, she/they, student
+Hi, I’m @riahalz, student
 
 ⚡ <b>Languages</b>: Python, Java, JavaScript, HTML
 
