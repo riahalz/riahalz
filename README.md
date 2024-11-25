@@ -1,6 +1,6 @@
 I’m @riahalz, student
 
-⚡ <b>Langs</b>: Python, Java, JavaScript, HTML
+⚡ <b>Lgs</b>: Python, Java, JavaScript, HTML
 
 ⚡ <b>Concentrations</b>: AI, Deep Learning, ML
 
