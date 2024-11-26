@@ -15,7 +15,5 @@
 
 ---
 
-🌱 I like watching anime in my free time.
-
-Open to messages, collaborations and discussions.
+Open to messages, collaborations and discussions
 
