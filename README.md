@@ -1,6 +1,6 @@
 **Hi, I’m Riya**
 
-🔍 Into **AI**, **Deep Learning**, **Machine Learning**, and **Robotics**.
+🔷 Into **AI**, **Deep Learning**, **Machine Learning**, and **Robotics**.
 
 ---
 
