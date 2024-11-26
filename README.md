@@ -9,7 +9,7 @@
 ---
 
 #### ⚡ Interests  
-- Artificial Intelligence, DL, ML
+- Artificial Intelligence
 - Robotics & Automation
 - Game Development
 
