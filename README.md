@@ -1,16 +1,22 @@
-Hi, I’m @riahalz, student
+**Hi, I’m Riya**
+🔍 Passionate about **AI**, **Deep Learning**, **Machine Learning**, and **Robotics**.
 
-⚡ <b>Langs</b>: Python, Java, JavaScript, HTML
+---
 
-⚡ <b>Interests</b>:
-- AI
-- Deep learning
-- Machine learning
-- Neural Networks
-- Robotics
+### ⚙️ Languages & Technologies
+- **Languages:** Python, Java, JavaScript, HTML, C++, VBA
+- **Frameworks/Tools:** React Native, Expo, Tkinter, Django, Flask
+
+---
+
+### ⚡ Interests  
+- Artificial Intelligence & Neural Networks  
+- Robotics & Automation  
 - Algorithms
 
-<!---
-riahalz/riahalz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+🌱 I like watching **anime** in my free time.
+
+Open to messages, collaborations and discussions.
+
