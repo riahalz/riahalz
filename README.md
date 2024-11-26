@@ -15,5 +15,5 @@
 
 ---
 
-Open to messages, collaborations and discussions
+Open to messages and discussions
 
