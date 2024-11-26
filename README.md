@@ -9,9 +9,9 @@ I'm into **AI**, **Deep Learning**, **Machine Learning**, and **Robotics**.
 ---
 
 #### ⚡ Interests  
-- Artificial Intelligence & Neural Networks  
-- Robotics & Automation  
-- Algorithms
+- Artificial Intelligence, DL, ML
+- Robotics & Automation
+- Game Development
 
 ---
 
