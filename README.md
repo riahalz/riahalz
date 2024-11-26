@@ -4,13 +4,13 @@
 
 ---
 
-### ⚙️ Languages & Technologies
+#### ⚙️ Languages & Technologies
 - **Languages:** Python, Java, JavaScript, HTML, C++, VBA
 - **Frameworks/Tools:** React Native, Expo, Tkinter, Django, Flask
 
 ---
 
-### ⚡ Interests  
+#### ⚡ Interests  
 - Artificial Intelligence & Neural Networks  
 - Robotics & Automation  
 - Algorithms
