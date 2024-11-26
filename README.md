@@ -1,4 +1,4 @@
-I’m @riahalz, student
+Hi, I’m @riahalz, student
 
 ⚡ <b>Langs</b>: Python, Java, JavaScript, HTML
 
