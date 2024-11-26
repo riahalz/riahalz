@@ -14,5 +14,5 @@
 
 ---
 
-Hmu to talk, or anything
+Hmu for anything
 
