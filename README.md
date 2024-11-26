@@ -1,4 +1,4 @@
-I am into **AI**, **Deep Learning**, **Machine Learning**, and **Robotics**.
+**AI**, **Deep Learning**, **Machine Learning**, **Robotics**
 
 ---
 
