@@ -2,7 +2,7 @@
 
 ---
 
-#### ⚙️ Languages & Technologies
+#### ⚡ Languages & Technologies
 - **Languages:** Python, Java, JavaScript, HTML, C++, VBA
 - **Frameworks/Tools:** React Native, Expo, Tkinter, Django, Flask
 
