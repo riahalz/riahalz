@@ -1,4 +1,4 @@
-**AI**, **Deep Learning**, **Machine Learning**, **Robotics**
+**AI**, **Deep Learning**, **Machine Learning**, **Robotics and Automation**
 
 ---
 
@@ -8,12 +8,11 @@
 
 ---
 
-#### ⚡ Interests  
-- Artificial Intelligence
-- Robotics & Automation
+#### ⚡ Other Interests  
+- Application Development
 - Game Development
 
 ---
 
-Open to messages and discussions
+Hmu to talk
 
