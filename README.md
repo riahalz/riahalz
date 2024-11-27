@@ -13,6 +13,3 @@
 - Application Development
 - Game Development
 
----
-
-
