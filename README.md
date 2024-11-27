@@ -15,5 +15,4 @@
 
 ---
 
-Open to messages
 
