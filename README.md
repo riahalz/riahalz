@@ -14,5 +14,5 @@
 
 ---
 
-Hmu anytime
+Open to messages
 
